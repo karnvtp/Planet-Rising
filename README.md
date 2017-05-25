@@ -3,7 +3,6 @@
 # Enemy AI-Pathfinding Algorithm [A*] 
 # By Santiphap Butrmaeklong   57070503437
 #===============================================================================
-# This script will allow you to use a pathfinder to move players or events.
 #
 # Modifications: 
 # Goal location may now be inpassable, pathfinder will still reach it.
